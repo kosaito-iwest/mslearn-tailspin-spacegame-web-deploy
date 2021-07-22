@@ -1,4 +1,4 @@
-### YamlMime:Yaml
+### YamlMime:Yaml 2
 trigger:
 - '*'
 variables:
